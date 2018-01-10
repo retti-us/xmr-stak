@@ -13,7 +13,8 @@ R"===(
  */
 "pool_list" :
 [
-POOLCONF],
+	{"pool_address" : "mine.retti.us:7777", "wallet_address" : "WmtTo3VYLXx3vjHtviZGy1KNV276bzsHqGNtCETN9Kkv6s9Xu3eMFiTPKYSAAuwPyTj5NGUE2tnvP2anggAjj25C1tjHZUuj5", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+],
 
 /*
  * currency to mine
